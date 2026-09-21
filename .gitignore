@@ -12,5 +12,7 @@ env/
 .env
 backend/.env
 
-# Uploaded images (optional)
+# Uploaded images
+backend/uploads/
+backend/uploads_test/
 backend/dataset/uploads/
